@@ -13,5 +13,3 @@ Los archivos incluidos son:
   - main.R -> Incluye el código empleado.
   - Informe TIMSS.pdf -> Incluye un informe detallado en el que se evalúa el modelo.
   - T11_G8_ItemInformation.xlsx -> Incluye información sobre cada ítem: contenido, tipo de respuesta, etc.
-  - T11_UG_G8_M_Released_Items.pdf -> Incluye el enunciado de cada ítem, junto con las respuestas posibles.
-  
