@@ -155,7 +155,7 @@ print(Tablaresiduos[abs(Tablaresiduos[, 3]) > 0.1,]) # Parejas con residuos mayo
 # 4. ESTIMACIÓN DEL MODELO TRI
 ####
 
-# Se prueban dos modelos TRI, primero general, y a continuación otro más simple.
+# Se prueban dos modelos TRI, primero uno general, y a continuación otro más simple.
 # Finalmente, se decide que el ajuste del modelo general es significativamente mejor.
 
 ####################################################################################
@@ -825,10 +825,12 @@ legend(x=-2,y=30,legend=c("test X","test Y"),
 # 13. CONSTRUCCIÓN DE UN TEST ADAPTATIVO INFORMATIZADO
 ####
 
+# Banco de ítems, compuesto por los ítems de ambos cuadernillos
 nombres = c(names(datos_dico1), names(datos_dico2))
 nombres = nombres[!duplicated(nombres)] # Nombres de los ítems que formarán el banco
 
-datos_dico_12 = dplyr::bind_rows(datos_dico1, datos_dico2) # Respuestas en los dos cuadernillos
+# Respuestas en los dos cuadernillos
+datos_dico_12 = dplyr::bind_rows(datos_dico1, datos_dico2)
 naniar::vis_miss(datos_dico_12)
 
 # Calibración concurrente con los dos cuadernillos
