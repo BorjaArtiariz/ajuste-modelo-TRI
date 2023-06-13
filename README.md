@@ -1,7 +1,7 @@
 # ajuste-modelo-TRI
 Ajuste de un modelo TRI a las respuestas de participantes estadounidenses y canadienses al test TIMSS 2011.  
 
-Este proyecto tiene una finalidad puramente didáctica. Su objetivo es mostrar cómo abordar el ajuste de unos datos a un modelo de Teoría de Respuesta al Ítem (TRI). Se incluyen los distintos pasos a seguir en la evaluación de las respuestas a un test, como son: estadísticos descriptivos, evaluación según los parámetros de la Teoría Clásica de los Test (TCT), ajuste de un modelo TRI, comparación de modelos, evaluación de supuestos, detección de sesgo, detección de patrones aberrantes, equiparación con las puntuaciones de otro test, y simulación del rendimiento de un Test Adaptativo Informatizado (TAI), aunque este último aspecto aún no se ha incluido en el informe. 
+Este proyecto tiene una finalidad puramente didáctica. Su objetivo es mostrar cómo abordar el ajuste de unos datos a un modelo de Teoría de Respuesta al Ítem (TRI). Se incluyen los distintos pasos a seguir en la evaluación de las respuestas a un test, como son: estadísticos descriptivos, evaluación según los parámetros de la Teoría Clásica de los Test (TCT), ajuste de un modelo TRI, comparación de modelos, evaluación de supuestos, detección de sesgo, detección de patrones aberrantes, equiparación con las puntuaciones de otro test, y simulación del rendimiento de un Test Adaptativo Informatizado (TAI).
 
 Las respuestas empleadas corresponden a estudiantes de octavo grado canadienses y estadounidenses, a la edición de 2011 del test Trends in International Mathematics and Science Study (TIMSS). Se pueden acceder a todos los datos relativos a este test a través de la siguiente url: 
 
