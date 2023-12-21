@@ -4,7 +4,7 @@
 # AL ÍTEM.
 #
 # Autor: Borja Artiñano Arizmendi
-# Fecha: 30/05/2023
+# Fecha de última actualización: 30/05/2023
 # 
 ################################################################################
 
